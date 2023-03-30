@@ -13,4 +13,3 @@ if (isMainThread) {
     console.log(`${workerData} sorted is ${workerData.sort()}`);
 }
 
-
